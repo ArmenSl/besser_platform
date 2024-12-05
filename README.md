@@ -6,14 +6,16 @@ Integrated modeling and code generation platform combining Apollon UML editor wi
 
 1. Clone the repository with submodules: 
 
-bash
+```bash
 git clone --recursive https://github.com/BESSER-PEARL/besser-platform.git
 cd besser-platform
+```
 
 2. Start the platform:
 
-bash
+```bash
 docker-compose up
+```
 
 Access:
 - Frontend: http://localhost:8888
