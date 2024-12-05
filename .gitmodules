@@ -1,0 +1,9 @@
+[submodule "apollon"]
+    path = apollon
+    url = https://github.com/BESSER-PEARL/apollon.git
+    branch = main
+
+[submodule "besser"]
+    path = besser
+    url = https://github.com/BESSER-PEARL/BESSER.git
+    branch = main 
