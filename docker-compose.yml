@@ -23,5 +23,5 @@ services:
       - "8000:8000"
     volumes:
       - ./besser:/app
-    working_dir: /app/besser_backend
+    working_dir: /app/besser/utilities/besser_backend
     command: python main.py
